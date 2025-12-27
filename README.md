@@ -135,7 +135,7 @@ features.
 Project Name: Number Puzzle Game with Scoreboard Saved to File
 Technology: C Programming Language
 Type: Console-Based Mini Project
-Team Members Name s:
+Team Members Names:
 25A31A4357 P.Sai Manikanta 
 25A31A4366 Y.V.D.Chaitanya
 25A31A4355 N.B.Viswadeep
